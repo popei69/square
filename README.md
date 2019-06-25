@@ -10,6 +10,8 @@ square <URL>
 ```
 Will export all images into `output/` folders, all named after their own dimensions.
 
+![square-screenshot](./images/screenshot.png)
+
 ### Dimension supported
 
 * App Store 
